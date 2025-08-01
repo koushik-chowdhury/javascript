@@ -1,4 +1,3 @@
-
 # Chapter 6: Functions in JavaScript
 
 Functions are blocks of code designed to perform a particular task. They help in code reusability and modularity.
@@ -38,7 +37,7 @@ console.log(add(3, 4)); // Output: 7
 ## 🔹 Function Expressions
 
 ```js
-const multiply = function(x, y) {
+const multiply = function (x, y) {
   return x * y;
 };
 
@@ -94,6 +93,31 @@ function greetUser(callback) {
 greetUser(sayHi); // Output: Hi!
 ```
 
+## 🧠 Practice Questions
+
+- Write a function to check if a number is even or odd.
+
+- Create a function to convert temperature from Celsius to Fahrenheit.
+
+- Write a function that returns the square of a number.
+
+- Create a function that reverses a given string.
+
+- Build a function that returns the max of three numbers.
+
+- Write a function to find the factorial using recursion.
+
+- Create a function that checks if a number is prime.
+
+- Write a function that returns the Fibonacci sequence up to n terms.
+
+- Create a calculator function using a higher-order function.
+- Implement a timer using setTimeout inside a function.
+- Write a BMI Calculator.
+- Create a reusable discount calculator (HOF).
+- Create a counter using closur.
+- use IIIFE to isolate variable.
+
 ---
 
 ## ✅ Summary
@@ -101,4 +125,3 @@ greetUser(sayHi); // Output: Hi!
 - Functions are reusable blocks of code.
 - They can accept parameters and return values.
 - Support for default, rest, and arrow functions.
-
