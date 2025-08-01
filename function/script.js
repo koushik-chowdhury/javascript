@@ -49,3 +49,38 @@ function sumAll(...numbers) {
   console.log(sum)
 }
 sumAll(1,2,3,4,5,6)
+
+// Callback Funtion 
+
+// First Class Function
+
+function test(val){
+  val()
+}
+
+test(function(){
+  console.log('hello world')
+})
+
+// closures and lexical scoping pending
+
+// IIIFE
+
+(function(){
+  console.log('hello world')
+})()
+
+(()=>{
+  console.log('hello world')
+})()
+
+// function hoisting 
+
+let ans = cal(10,10)
+console.log(ans)
+
+function cal(n1,n2){
+  return n1*n2
+}
+
+// hoisting work on function statement but not on expression
