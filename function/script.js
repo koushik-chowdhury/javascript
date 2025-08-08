@@ -62,7 +62,7 @@ test(function(){
   console.log('hello world')
 })
 
-// closures and lexical scoping pending
+// closures and lexical scoping pending *******************************
 
 // IIIFE
 
