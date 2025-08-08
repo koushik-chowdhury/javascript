@@ -15,7 +15,7 @@ Each chapter is a standalone Markdown file filled with explanations, code exampl
 | 3️⃣ | Operators | [operators.md](./operators/readme.md) |
 | 4️⃣ | Control Flow | [control-flow.md](./control-flow/readme.md) |
 | 5️⃣ | Loops | [loops.md](./loops/readme.md) |
-| 6️⃣ | Functions | *Coming Soon* |
+| 6️⃣ | Functions | [function.md](./function/readme.md) |
 | 7️⃣ | Arrays | *Coming Soon* |
 | 8️⃣ | Objects | *Coming Soon* |
 
