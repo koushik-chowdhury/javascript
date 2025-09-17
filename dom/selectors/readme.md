@@ -82,7 +82,6 @@ img.removeAttribute('src'); // removes the image
 | `element.removeAttribute()` | Deletes the attribute entirely.                                      |
 
 ---
-
 ## 8. **Cheat Sheet**
 
 | Concept             | Method / Property                     | Description                                  | Example |
